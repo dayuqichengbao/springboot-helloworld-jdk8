@@ -48,7 +48,7 @@ Hello, Spring Boot (Java 8)!
 
 或者手动克隆后修改：
 ```
-git clone https://github.com/yourname/springboot-helloworld-jdk8.git myapp
+git clone git@github.com:dayuqichengbao/springboot-helloworld-jdk8.git myapp
 cd myapp
 rm -rf .git   # 清理旧仓库信息
 git init
